@@ -2,7 +2,7 @@ on:
   pull_request_target:
     types: [unlocked]
 
-name: Staging Deploy to Amazon S3
+name: TEST
 
 jobs:
   deploy:
